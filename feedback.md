@@ -1,0 +1,1 @@
+I have learned a lot of things in this class including machine learning basics, distributed data, and predict the future. One thing to improve is I think there should be games to make the class for fun and help students memorizing.
